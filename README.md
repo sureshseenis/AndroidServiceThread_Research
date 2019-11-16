@@ -1,10 +1,10 @@
 # AndroidServiceThread_Research
 
 Service and Thread Difference
-1) service is componnent of android without intract ui
-
-Difference between forground and background
- /**
+1) service is componnent of android without intract ui and Difference between forground and background
+    
+    
+    /**
      * Standard priority background threads.  This gives your thread a slightly
      * lower than normal priority, so that it will have less chance of impacting
      * the responsiveness of the user interface.
